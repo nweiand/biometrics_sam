@@ -1,0 +1,6 @@
+- [ ] Implementieren von SAM zur Segmentierung von Tattoos
+  - [ ] Für jedes Segment: Calculate IoU
+  - [ ] Take Max IoU
+- [ ] Evaluationsbericht
+  - [ ] Wie gut performt das nach den Metriken aus dem anderen Paper?
+  - [ ] Vergleich mit den anderen Methoden
